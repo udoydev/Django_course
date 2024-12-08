@@ -1,0 +1,17 @@
+UML - Understand in detailed 
+Learn all the theory behind a backend , like dbms , authentication , learn about how to give instruction to the ai ( prompt engineer)
+text twister (for seo optimization)
+
+//libraries
+TkInter(gui)
+numpy 
+pandas 
+matplotlib
+tkinter
+
+how python run code : watch the chai or code video / diagram from group 
+
+
+
+
+
